@@ -7,9 +7,12 @@
 </h4>
 
 <p align="center">
+  <a href="https://www.codacy.com/manual/leovieira/NLW-1.0?utm_source=github.com&utm_medium=referral&utm_content=leovieira/NLW-1.0&utm_campaign=Badge_Grade">
+    <img alt="Code quality" src="https://img.shields.io/codacy/grade/31baa3635f9e404b8dce94d225bec072?style=flat&logo=codacy&color=7159c1&labelColor=000000" />
+  </a>
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/leovieira/NLW-1.0?style=flat&color=7159c1&labelColor=000000" />
   <a href="https://www.leovieira.dev">
-    <img alt="Made by leovieira" src="https://img.shields.io/static/v1?label=Made%20by&message=leovieira&style=flat&color=7159c1&labelColor=000000" />
+    <img alt="Made by leovieira" src="https://img.shields.io/static/v1?label=made%20by&message=leovieira&style=flat&color=7159c1&labelColor=000000" />
   </a>
   <a href="https://github.com/leovieira/NLW-1.0/commits/master">
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/leovieira/NLW-1.0?style=flat&color=7159c1&labelColor=000000" />
@@ -145,7 +148,7 @@ Depois que o merge da sua pull request for feito, você pode deletar a sua branc
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](https://github.com/leovieira/NLW-1.0/blob/master/LICENSE) para mais detalhes.
 
-Feito com ♥ por LéoVieira™ :wave: [Entre em contato!](https://www.leovieira.dev)
+Feito com ❤️ por LéoVieira™ :wave: [Entre em contato!](https://www.leovieira.dev)
 
 [nodejs]: https://nodejs.org/
 [typescript]: https://www.typescriptlang.org/
