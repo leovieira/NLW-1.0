@@ -7,17 +7,33 @@
 </h4>
 
 <p align="center">
-  <a href="#-nlw">Next Level Week</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+	<img alt="Repository size" src="https://img.shields.io/github/repo-size/leovieira/NLW-1.0">
+	<a href="https://www.leovieira.dev">
+		<img alt="Made by LéoVieira™" src="https://img.shields.io/static/v1?label=Made%20by&message=LéoVieira™&color=7159c1&labelColor=000000" />
+	</a>
+	<a href="https://github.com/leovieira/NLW-1.0/commits/master">
+		<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/leovieira/NLW-1.0?color=7159c1&labelColor=000000" />
+	</a>
+	<a href="https://github.com/leovieira/NLW-1.0/blob/master/LICENSE">
+		<img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=7159c1&labelColor=000000" />
+	</a>
+	<a href="https://github.com/leovieira/NLW-1.0/stargazers">
+		<img alt="Stargazers" src="https://img.shields.io/github/stars/leovieira/NLW-1.0?style=social&color=7159c1&labelColor=000000" />
+	</a>
+</p>
+
+<p align="center">
+  <a href="#information_source-o-que-a-next-level-week-oferece">Next Level Week</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-como-usar">Como usar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#rocket-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#information_source-como-usar">Como usar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-como-contribuir">Como contribuir</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#licenca">Licença</a>
+  <a href="#memo-licença">Licença</a>
 </p>
 
 ## :information_source: O que a Next Level Week oferece?
 
-A NLW é uma semana prática com muito código, desafios, redes e um único objetivo: levar você ao próximo nível.
+A NLW é uma semana prática com muito código, desafios e interações. Porém, possui um único objetivo: levar você ao próximo nível.
 Através do nosso método, você aprenderá novas ferramentas, aprenderá sobre novas tecnologias e descobrirá hacks que irão impulsionar sua carreira.
 Um evento online e totalmente gratuito que o ajudará a dar o próximo passo na sua evolução como desenvolvedor.
 
