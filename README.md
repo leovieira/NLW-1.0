@@ -7,18 +7,18 @@
 </h4>
 
 <p align="center">
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/leovieira/NLW-1.0?color=7159c1&labelColor=000000" />
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/leovieira/NLW-1.0?style=flat&color=7159c1&labelColor=000000" />
   <a href="https://www.leovieira.dev">
-    <img alt="Made by leovieira" src="https://img.shields.io/static/v1?label=Made%20by&message=leovieira&color=7159c1&labelColor=000000" />
+    <img alt="Made by leovieira" src="https://img.shields.io/static/v1?label=Made%20by&message=leovieira&style=flat&color=7159c1&labelColor=000000" />
   </a>
   <a href="https://github.com/leovieira/NLW-1.0/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/leovieira/NLW-1.0?color=7159c1&labelColor=000000" />
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/leovieira/NLW-1.0?style=flat&color=7159c1&labelColor=000000" />
   </a>
   <a href="https://github.com/leovieira/NLW-1.0/blob/master/LICENSE">
-    <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=7159c1&labelColor=000000" />
+    <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&style=flat&color=7159c1&labelColor=000000" />
   </a>
   <a href="https://github.com/leovieira/NLW-1.0/stargazers">
-    <img alt="Stargazers" src="https://img.shields.io/github/stars/leovieira/NLW-1.0?style=social&color=7159c1&labelColor=000000" />
+    <img alt="Stargazers" src="https://img.shields.io/github/stars/leovieira/NLW-1.0?style=flat&logo=github&color=7159c1&labelColor=000000" />
   </a>
 </p>
 
