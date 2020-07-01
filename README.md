@@ -1,25 +1,25 @@
 <h1 align="center">
-    <img alt="NextLevelWeek" title="#NextLevelWeek" src=".github/logo.svg" width="250px" />
+  <img alt="NextLevelWeek" title="#NextLevelWeek" src=".github/logo.svg" width="250px" />
 </h1>
 
 <h4 align="center">
-	:heavy_check_mark:  NextLevelWeek 1.0 🚀 Concluído! :heavy_check_mark:
+  :heavy_check_mark:  NextLevelWeek 1.0 🚀 Concluído! :heavy_check_mark:
 </h4>
 
 <p align="center">
-	<img alt="Repository size" src="https://img.shields.io/github/repo-size/leovieira/NLW-1.0">
-	<a href="https://www.leovieira.dev">
-		<img alt="Made by LéoVieira™" src="https://img.shields.io/static/v1?label=Made%20by&message=LéoVieira™&color=7159c1&labelColor=000000" />
-	</a>
-	<a href="https://github.com/leovieira/NLW-1.0/commits/master">
-		<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/leovieira/NLW-1.0?color=7159c1&labelColor=000000" />
-	</a>
-	<a href="https://github.com/leovieira/NLW-1.0/blob/master/LICENSE">
-		<img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=7159c1&labelColor=000000" />
-	</a>
-	<a href="https://github.com/leovieira/NLW-1.0/stargazers">
-		<img alt="Stargazers" src="https://img.shields.io/github/stars/leovieira/NLW-1.0?style=social&color=7159c1&labelColor=000000" />
-	</a>
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/leovieira/NLW-1.0?color=7159c1&labelColor=000000" />
+  <a href="https://www.leovieira.dev">
+    <img alt="Made by leovieira" src="https://img.shields.io/static/v1?label=Made%20by&message=leovieira&color=7159c1&labelColor=000000" />
+  </a>
+  <a href="https://github.com/leovieira/NLW-1.0/commits/master">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/leovieira/NLW-1.0?color=7159c1&labelColor=000000" />
+  </a>
+  <a href="https://github.com/leovieira/NLW-1.0/blob/master/LICENSE">
+    <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=7159c1&labelColor=000000" />
+  </a>
+  <a href="https://github.com/leovieira/NLW-1.0/stargazers">
+    <img alt="Stargazers" src="https://img.shields.io/github/stars/leovieira/NLW-1.0?style=social&color=7159c1&labelColor=000000" />
+  </a>
 </p>
 
 <p align="center">
@@ -38,6 +38,7 @@ Através do nosso método, você aprenderá novas ferramentas, aprenderá sobre 
 Um evento online e totalmente gratuito que o ajudará a dar o próximo passo na sua evolução como desenvolvedor.
 
 ### Dias
+
 - Dia 1: Acelerando sua evolução 01/06 - :heavy_check_mark:
 - Dia 2: Olhando para as oportunidades 02/06 - :heavy_check_mark:
 - Dia 3: A escolha da Stack 03/06 - :heavy_check_mark:
@@ -50,7 +51,7 @@ Ecoleta é um projeto desenvolvido com base na semana internacional do meio ambi
 O objetivo é conectar pessoas a empresas que coletam resíduos específicos, como lâmpadas, baterias, óleo de cozinha etc.
 
 <h1 align="center">
-    <img alt="Ecoleta" title="Ecoleta" src=".github/capa.svg" width="500px" />
+  <img alt="Ecoleta" title="Ecoleta" src=".github/capa.svg" width="500px" />
 </h1>
 
 ## :rocket: Tecnologias
@@ -133,10 +134,10 @@ $ expo install expo-font @expo-google-fonts/ubuntu @expo-google-fonts/roboto
 
 ## 🤔 Como contribuir
 
--  Faça um fork desse repositório;
--  Cria uma branch com a sua feature: `git checkout -b my-feature`;
--  Faça commit das suas alterações: `git commit -m 'feat: My new feature'`;
--  Faça push para a sua branch: `git push origin my-feature`.
+- Faça um fork desse repositório;
+- Cria uma branch com a sua feature: `git checkout -b my-feature`;
+- Faça commit das suas alterações: `git commit -m 'feat: My new feature'`;
+- Faça push para a sua branch: `git push origin my-feature`.
 
 Depois que o merge da sua pull request for feito, você pode deletar a sua branch.
 
