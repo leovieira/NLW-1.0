@@ -1,0 +1,308 @@
+#page-create-point {
+  width: 100%;
+  height: 100%;
+}
+
+.message-container {
+  width: 100%;
+  height: 100%;
+  z-index: 10000;
+  position: fixed;
+  flex-direction: column;
+  background-color: rgba(39, 34, 53, 0.95);
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+.message-button {
+  position: fixed;
+  right: 10px;
+  top: 10px;
+  background-color: transparent;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  color: #fff;
+}
+
+.message-icon-success {
+  color: var(--primary-color);
+}
+
+.message-icon-error {
+  color: #ff0000;
+}
+
+.message-text {
+  margin-top: 15px;
+  font-size: 16pt;
+  color: #fff;
+}
+
+.message-redirect {
+  position: fixed;
+  left: 10px;
+  bottom: 10px;
+  font-size: 12pt;
+  color: #fff;
+}
+
+#page-create-point .content {
+  max-width: 1100px;
+  margin: 0 auto;
+  display: flow-root;
+}
+
+#page-create-point header {
+  margin: 48px;
+
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+#page-create-point header a {
+  color: var(--title-color);
+  font-weight: bold;
+  text-decoration: none;
+
+  display: flex;
+  align-items: center;
+}
+
+#page-create-point header a svg {
+  margin-right: 16px;
+  color: var(--primary-color);
+}
+
+#page-create-point form {
+  margin: 80px auto;
+  padding: 64px;
+  max-width: 730px;
+  background: #fff;
+  border-radius: 8px;
+
+  display: flex;
+  flex-direction: column;
+}
+
+#page-create-point form h1 {
+  font-size: 36px;
+}
+
+#page-create-point form fieldset {
+  margin-top: 64px;
+  min-inline-size: auto;
+  border: 0;
+}
+
+#page-create-point form legend {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 40px;
+}
+
+#page-create-point form legend h2 {
+  font-size: 24px;
+}
+
+#page-create-point form legend span {
+  font-size: 14px;
+  font-weight: normal;
+  color: var(--text-color);
+}
+
+#page-create-point form .field-group {
+  flex: 1;
+  display: flex;
+}
+
+#page-create-point form .field {
+  flex: 1;
+
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 24px;
+}
+
+#page-create-point form .field input[type="text"],
+#page-create-point form .field input[type="email"],
+#page-create-point form .field input[type="number"] {
+  flex: 1;
+  background: #f0f0f5;
+  border-width: 2px;
+  border-radius: 8px;
+  border-style: solid;
+  border-color: #f0f0f5;
+  padding: 16px 22px;
+  font-size: 16px;
+  color: #6c6c80;
+  outline: none;
+}
+
+#page-create-point form .field input[type="text"]:focus,
+#page-create-point form .field input[type="email"]:focus,
+#page-create-point form .field input[type="number"]:focus {
+  border-color: #322153;
+}
+
+#page-create-point form .field input::placeholder {
+  color: #a0a0b2;
+}
+
+#page-create-point form .field select {
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+  flex: 1;
+  background: url("../../assets/down-arrow.svg") no-repeat #f0f0f5;
+  background-position: center right 22px;
+  background-size: 20px;
+  border-width: 2px;
+  border-radius: 8px;
+  border-style: solid;
+  border-color: #f0f0f5;
+  padding: 16px 22px;
+  font-size: 16px;
+  color: #6c6c80;
+  outline: none;
+  cursor: pointer;
+}
+
+#page-create-point form .field select:focus {
+  border-color: #322153;
+}
+
+#page-create-point form .field label {
+  font-size: 14px;
+  margin-bottom: 8px;
+}
+
+#page-create-point form .field :disabled {
+  cursor: not-allowed;
+}
+
+#page-create-point form .field-group .field + .field {
+  margin-left: 24px;
+}
+
+#page-create-point form .field-group input + input {
+  margin-left: 24px;
+}
+
+#page-create-point form .field-check {
+  flex-direction: row;
+  align-items: center;
+}
+
+#page-create-point form .field-check input[type="checkbox"] {
+  background: #f0f0f5;
+}
+
+#page-create-point form .field-check label {
+  margin: 0 0 0 8px;
+}
+
+#page-create-point form .leaflet-container {
+  width: 100%;
+  height: 350px;
+  border-radius: 8px;
+  margin-bottom: 24px;
+}
+
+#page-create-point form button {
+  width: 260px;
+  height: 56px;
+  background: var(--primary-color);
+  border-radius: 8px;
+  color: #fff;
+  font-weight: bold;
+  font-size: 16px;
+  border: 0;
+  align-self: flex-end;
+  margin-top: 40px;
+  transition: background-color 0.2s;
+  cursor: pointer;
+  outline: none;
+}
+
+#page-create-point form button:hover {
+  background: #2fb86e;
+}
+
+.items-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 16px;
+  list-style: none;
+}
+
+.items-grid li {
+  background: #f5f5f5;
+  border: 2px solid #f5f5f5;
+  height: 180px;
+  border-radius: 8px;
+  padding: 32px 24px 16px;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+
+  text-align: center;
+
+  cursor: pointer;
+
+  -webkit-touch-callout: none; /* iOS Safari */
+  -webkit-user-select: none; /* Safari */
+  -khtml-user-select: none; /* Konqueror HTML */
+  -moz-user-select: none; /* Old versions of Firefox */
+  -ms-user-select: none; /* Internet Explorer/Edge */
+  user-select: none; /* Non-prefixed version, currently
+                                  supported by Chrome, Edge, Opera and Firefox */
+}
+
+.items-grid li span {
+  flex: 1;
+  margin-top: 12px;
+
+  display: flex;
+  align-items: center;
+  color: var(--title-color);
+}
+
+.items-grid li.selected {
+  background: #e1faec;
+  border: 2px solid #34cb79;
+}
+
+@media (max-width: 835px) {
+  #page-create-point header {
+    margin: 48px 20px;
+  }
+}
+
+@media (max-width: 770px) {
+  #page-create-point form {
+    margin: 80px 20px;
+    padding: 30px;
+  }
+}
+
+@media (max-width: 640px) {
+  #page-create-point form .field-group {
+    flex: initial;
+    display: initial;
+  }
+
+  #page-create-point form .field-group .field + .field {
+    margin-left: 0px;
+  }
+
+  #page-create-point form .field-group input + input {
+    margin-left: 0px;
+  }
+}

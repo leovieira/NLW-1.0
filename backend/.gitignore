@@ -1,0 +1,8 @@
+node_modules/
+
+*.sqlite
+*.db
+*.s3db
+*.log
+package-lock.json
+yarn.lock

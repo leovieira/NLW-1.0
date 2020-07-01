@@ -1,0 +1,89 @@
+.dropzone-container {
+  height: 300px;
+  border-radius: 10px;
+  background-repeat: no-repeat;
+  background-size: cover;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 48px;
+  outline: 0;
+  cursor: pointer;
+}
+
+.text-container {
+  width: calc(100% - 60px);
+  height: calc(100% - 60px);
+  padding: 20px;
+  border-radius: 10px;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
+  -webkit-touch-callout: none; /* iOS Safari */
+  -webkit-user-select: none; /* Safari */
+  -khtml-user-select: none; /* Konqueror HTML */
+  -moz-user-select: none; /* Old versions of Firefox */
+  -ms-user-select: none; /* Internet Explorer/Edge */
+  user-select: none; /* Non-prefixed version, currently
+                                  supported by Chrome, Edge, Opera and Firefox */
+}
+
+.image {
+  border: 1px dashed #fff;
+}
+
+.no-image {
+  border: 1px dashed #4ecb79;
+}
+
+.dropzone-p1 {
+  text-align: center;
+  font-size: 16px;
+  font-family: Roboto;
+  font-weight: bold;
+  color: #322153;
+}
+
+.dropzone-p2 {
+  margin-top: 10px;
+  text-align: center;
+  font-size: 16px;
+  font-family: Roboto;
+  font-weight: normal;
+  color: #322153;
+}
+
+.dropzone-p1-image {
+  text-align: center;
+  font-size: 16px;
+  font-family: Roboto;
+  font-weight: bold;
+  color: #fff;
+}
+
+.dropzone-p2-image {
+  margin-top: 10px;
+  text-align: center;
+  font-size: 16px;
+  font-family: Roboto;
+  font-weight: normal;
+  color: #fff;
+}
+
+.dropzone-p-icon {
+  color: #4ecb79;
+  width: 24px;
+  height: 24px;
+  margin-bottom: 8px;
+}
+
+.dropzone-p-icon-image {
+  color: #fff;
+  width: 24px;
+  height: 24px;
+  margin-bottom: 8px;
+}

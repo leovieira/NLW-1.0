@@ -1,0 +1,8 @@
+node_modules/
+android/
+.expo/
+.expo-shared/
+
+*.log
+package-lock.json
+yarn.lock
